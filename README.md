@@ -16,7 +16,7 @@ This is a Flask-based portfolio website that showcases an "About Me" page, perso
 ![Screenshot of the Portfolio](screenshot.png)
 
 ## Project Structure
-
+```
 flask-portfolio/
 ├── application.py   # Main Flask application
 ├── static/
@@ -28,7 +28,7 @@ flask-portfolio/
 │   └── index.html      # Main page
 ├── requirements.txt   # Python dependencies
 └── README.md          # Project documentation
-
+```
 
 ## Requirements
 
