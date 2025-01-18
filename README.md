@@ -39,7 +39,7 @@ flask-portfolio/
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/your-username/flask-portfolio.git
+   git clone https://github.com/Pravesh-Sudha/ebs-demo.git
    cd flask-portfolio
    ```
 
@@ -105,5 +105,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 Feel free to customize this README further based on your preferences or additional features in the project.
 ```  
-
 Would you like any additional sections or customizations in this README? 😊
